@@ -60,7 +60,7 @@ The following steps will guide you through the process of committing a change on
 <footer>
 
 <!--
-  <<< Author notes: Footer >>>
+  <<< Sardar Author notes: Footer >>>
   Add a link to get support, GitHub status page, code of conduct, license link.
 -->
 
